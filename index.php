@@ -93,7 +93,6 @@
                     <b>Major:</b> Web and Information Systems <br>
                     <b>Minor:</b> Business <br>
                     <b>Class Standing:</b> Junior</p>
-                    <a href="#" class="btn btn-default btn-xl">Go Back!</a>
                 </div>
             </div>
         </div>
@@ -152,7 +151,6 @@
                   Civic Engagement, Newark, NJ<br>
                   Compugra Systems Inc., South Plainfield, NJ<br>
                   Edward and Associates, Plainfield, NJ</p>
-                  <a href="#" class="btn btn-default btn-xl">Go Back!</a>
               </div>
           </div>
       </div>
