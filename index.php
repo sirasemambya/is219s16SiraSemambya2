@@ -76,7 +76,7 @@
             <div class="header-content-inner">
                 <h1>Sira Semambya</h1>
                 <hr>
-                <p>Welcome to my IS219 Project 1 Page! <br> Here you will be able to learn more about Sira!</p>
+                <p><font color="orange">Welcome to my IS219 Project 1 Page! <br> Here you will be able to learn more about Sira!</font></p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
